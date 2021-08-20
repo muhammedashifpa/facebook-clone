@@ -1,0 +1,198 @@
+body{
+    margin: 0;
+}
+
+.main-body{
+    width: 100%;
+    height: 85px;
+    background: #3b5998;
+}
+.logo-body{
+    width: 50%;
+    padding-top:2%;
+    float: left;
+
+}
+
+.login-body{
+    width: 50%;
+    float: left;
+    
+}
+.login-label{
+    color: #fff;
+    font-size: 16px;
+    font-family:sans-serif;
+}
+.sub-body{
+    float: left;
+    background:linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 500px;
+}
+.left-body{
+    width: 50%;
+    float: left;
+    padding-left: 90px;
+}
+.right-body{
+    width: 40%;
+    float: left;
+    height: 500px;
+}
+
+.forgotten-label{
+    
+    text-decoration: none;
+    color: rgba(216, 238, 252, 0.856);
+    font-family: sans-serif;
+}
+.forgotten-label:hover{
+    color: rgb(125, 148, 161)
+}
+
+.main-text{
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    color: lavender;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 110px;
+}
+.login-controls{
+    padding-top: 10px;
+}
+.input-label{
+    border: black;
+    margin-right: 10px;
+    padding: 5px;
+    padding-left: 10px;
+    height: 15px;
+    width: 230px;
+    border-radius: 2px;
+}
+.submit-label{
+    background: #4267b2;
+    border-radius: 3px ;
+    width: 70px;
+    color: #fff;
+    border-width: 1px;
+    border-color: #29487d;
+    border-style: hidden;
+    cursor: pointer;
+    padding: 5px;
+}
+.submit-label:hover{
+    background: #29487d;
+}
+.para{ 
+    font-size: 22px;
+    font-family: system-ui;
+    font-weight: bold;
+}
+.caa{
+    font-family: monospace;
+    font-weight: bolder;
+    margin: 0px;
+    margin-left: 5px;
+
+}
+
+
+.iqe{
+    font-family: system-ui;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+
+}
+.in-name{
+    height: 20px;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(167, 171, 175);
+    padding: 5px;
+    margin: 5px;
+}
+.in-email{
+    height: 20px;
+    width: 350px;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(167, 171, 175);
+    padding: 5px;
+    margin: 5px;
+
+}
+.in-pass{
+    height: 20px;
+    width: 350px;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(167, 171, 175);
+    padding: 5px;
+    margin: 5px;
+
+}
+.subfont{
+    font-size: 20px;
+    font-family: -webkit-pictograph;
+    font-weight: bold;
+    color: gray;
+    margin: 0px;
+    margin-left: 10px;
+}
+.dob{
+    width: 130px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+}
+.gender-div{
+    padding-left: 10px;
+}
+.radio-button{
+    margin-top: 10px;
+}
+.label-text{
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+.discription-div{
+    width: 300px;
+    padding-left: 5px;
+}
+.discription-text{
+    font-size: 11px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: gray;
+}
+.signup-btn{
+    width: 150px;
+    padding: 5px;
+    border-width: 0px;
+    border-radius: 3px;
+    background-color: #42b72a;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+}
+.signup-btn:hover{
+    background-color: #4e9c3e;
+    cursor: pointer;
+
+}
+.discription-text-link{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    font-weight: 500;
+}
+.discription-text-link:hover{
+    color: rgb(65, 66, 131);
+}
